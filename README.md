@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Isaias</h1>
 
-<!--
-**IsaiasCoder/IsaiasCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software developer passionate about building useful projects and continuously learning.
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I enjoy creating web and software solutions.
+- 🌱 I’m currently improving my skills in modern development tools and practices.
+- 🤝 I’m open to collaborating on interesting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: JavaScript, TypeScript, Python
+- Tools: Git, GitHub, VS Code
+- Focus: Clean code, problem solving, and continuous improvement
+
+## 📫 Connect With Me
+- GitHub: [@IsaiasCoder](https://github.com/IsaiasCoder)
